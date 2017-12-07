@@ -1,6 +1,6 @@
 # Base Project
-[![Build Status](https://travis-ci.org/paullin050182@gmail.com/BaseProject.svg?branch=master)](https://travis-ci.org/paullin050182@gmail.com/BaseProject)
-[![codecov](https://codecov.io/gh/paullin050182@gmail.com/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/paullin050182@gmail.com/BaseProject)
+[![Build Status](https://travis-ci.org/paullin0501/BaseProject.svg?branch=master)](https://travis-ci.org/paullin0501/BaseProject)
+[![codecov](https://codecov.io/gh/paullin0501/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/paullin0501/BaseProject)
 
 ## Structure
 ```
